@@ -79,19 +79,4 @@ In this project, we:
 
 ---
 
-## 🔮 Future Work  
-- Extend model to **SARIMA** for seasonality.  
-- Compare with **LSTM/GRU deep learning models**.  
-- Include **volume, sentiment, and macroeconomic indicators**.  
-- Deploy as a **real-time dashboard** (Flask / Streamlit / Dash).  
-
----
-
-## 🙌 Acknowledgements  
-- TCS Stock Price Data (publicly available financial datasets, e.g., Yahoo Finance).  
-- `statsmodels` ARIMA documentation.  
-- Tutorials on time series forecasting and stationarity testing.  
-
----
-
 ✨ *"Forecasting tomorrow’s market with today’s data."* 📈  
